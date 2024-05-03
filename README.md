@@ -19,5 +19,8 @@ http://192.168.56.1:3000/gateway/?s=4+KuBqcHMCMUi7KCQbvAsaarM7xh3IertoypykzJhAYR
 테스트:
 https://tsmartshop.mannashop.co.kr/shop/mts/?s=kUy7PhQl1atZpfl4i4ZzM5rj1OWjw0y48WGt1XiYRcZZR96ViHRkSo+GWxKUYZXbk4sDky1CJ0KUCR7HRixo7Wd8TC07mHwFyB7PT5MFr4Q=
 <br><br>
+테스트: 검수팀
+https://tsmartshop.mannashop.co.kr/shop/mts/?s=kUy7PhQl1atZpfl4i4ZzM/Km2cWMsSPaRHzJJBJJMJdR8JLJp9i01i35BQNl5d8JKKq67/LoHsiO+hBjsmL4wiEMKz7m4y3K4tm0RW2uNocg3J/A3UhTz8z1IbAFQMDxJ3AFSmpQv7bmlOSApCom3Q==
+
 상용(마트샵3.0):
 https://api.bursim.co.kr/contents/redirect/?s=S052948&c=050418481212
