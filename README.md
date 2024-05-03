@@ -5,6 +5,9 @@ http://172.16.18.134:8080/shop/mns/?s=kUy7PhQl1atZpfl4i4ZzM3AHy/OxrgRa8Z43ZPjAB4
 <br><br>
 테스트:
 https://tsmartshop.mannashop.co.kr/shop/mns/?s=kUy7PhQl1atZpfl4i4ZzM3AHy/OxrgRa8Z43ZPjAB4uI7QA1glmVALyzR6RsRpVWKQUsxSOqPCUIs3Er0sKTeIWUoe/8vfrRPFDashj/qL+wrYZWyByJzgOvNI1HpuB9<br><br>
+만나샵웹 
+https://tsmartshop.mannashop.co.kr/shop/mns/?s=kUy7PhQl1atZpfl4i4ZzMxebfpZQqFftgOPbfjP6JBK1Yd35XVhSWHqsiuvonJJquis/og9fW7DudKCrpHHOR8BJHEnM2oO+G/ObZcm2O/XBI0yAoIsA7Ad64aYt5yDA<br><br>
+
 상용:
 https://api.bursim.co.kr/contents/redirect/?s=S051513&c=050418481212
 
@@ -20,7 +23,7 @@ http://192.168.56.1:3000/gateway/?s=4+KuBqcHMCMUi7KCQbvAsaarM7xh3IertoypykzJhAYR
 https://tsmartshop.mannashop.co.kr/shop/mts/?s=kUy7PhQl1atZpfl4i4ZzM5rj1OWjw0y48WGt1XiYRcZZR96ViHRkSo+GWxKUYZXbk4sDky1CJ0KUCR7HRixo7Wd8TC07mHwFyB7PT5MFr4Q=
 <br><br>
 테스트: 검수팀
-https://tsmartshop.mannashop.co.kr/shop/mts/?s=kUy7PhQl1atZpfl4i4ZzM/Km2cWMsSPaRHzJJBJJMJdR8JLJp9i01i35BQNl5d8JKKq67/LoHsiO+hBjsmL4wiEMKz7m4y3K4tm0RW2uNocg3J/A3UhTz8z1IbAFQMDxJ3AFSmpQv7bmlOSApCom3Q==
+https://tsmartshop.mannashop.co.kr/shop/mts/?s=kUy7PhQl1atZpfl4i4ZzM/Km2cWMsSPaRHzJJBJJMJdR8JLJp9i01i35BQNl5d8JKKq67/LoHsiO+hBjsmL4wiEMKz7m4y3K4tm0RW2uNocg3J/A3UhTz8z1IbAFQMDxJ3AFSmpQv7bmlOSApCom3Q==<br><br>
 
 상용(마트샵3.0):
 https://api.bursim.co.kr/contents/redirect/?s=S052948&c=050418481212
